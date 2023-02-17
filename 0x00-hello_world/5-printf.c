@@ -1,4 +1,4 @@
-#include<studio.h>
+#include<stdio.h>
 /**
  * main - a programm that prints exactly the named words
  * Return: Always 0 (Success)
